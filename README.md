@@ -1,14 +1,14 @@
-<h1 align="center">Bidhan Kumar Paul 👋</h1>
+<h1 align="center">👋Hi I'm Bidhan Kumar Paul</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Applied+Mathematics+Student;Aspiring+SWE+%2F+ML+Engineer;Building+things+with+HTML%2C+CSS%2C+JS+%26+PHP;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Applied+Mathematics+Student;Aspiring+SWE+Engineer;Aspiring+ML+Engineer;Building+innovative+things;Always+learning+something+new" alt="Aspiring Machine Learning engineer" />
 </p>
 
 <p align="center">
   <a href="https://bidhankumarpaul.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/bidhan-kumar-420a3324b" target="_blank">
+  <a href="https://www.linkedin.com/in/bidhan-kumar-paul-420a3324b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bidhankumar331@gmail.com">
@@ -55,10 +55,7 @@
   <img src="https://raw.githubusercontent.com/BidhanKumarPaul/BidhanKumarPaul/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚠️ The snake image needs a one-time GitHub Actions setup (instructions below) — it won't render until then.
-
----
-
+<!--
 ### 📌 Featured Projects
 
 <p align="center">
@@ -76,14 +73,14 @@
 </p>
 
 ---
-
+-->
 ### 📬 Contact Me
 
 <p align="center">
   <a href="mailto:bidhankumar331@gmail.com">
     <img src="https://img.shields.io/badge/Email-bidhankumar331%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/bidhan-kumar-420a3324b" target="_blank">
+  <a href="https://www.linkedin.com/in/bidhan-kumar-paul-420a3324b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bidhan%20Kumar%20Paul-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/BidhanKumarPaul" target="_blank">
